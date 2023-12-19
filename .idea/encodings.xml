@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/src/main/java/AesConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/AliDecrupyContent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/AliEncryptContent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/AliSdk.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/DecryptUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/JdkCrypt.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ShuNing.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/TestDangdang.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Util.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/WeixinSdk.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/testAlisdk.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/xunlei.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/DD.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/DecryptTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/JdkCryptTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/TestBianma.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/paddingOracleVi.java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
